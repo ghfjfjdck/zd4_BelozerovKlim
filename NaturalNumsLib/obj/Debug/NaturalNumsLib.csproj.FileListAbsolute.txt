@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\РАБ_ота\NaturalNumsLib\bin\Debug\NaturalNumsLib.dll
+C:\Users\admin\Desktop\РАБ_ота\NaturalNumsLib\bin\Debug\NaturalNumsLib.pdb
+C:\Users\admin\Desktop\РАБ_ота\NaturalNumsLib\obj\Debug\NaturalNumsLib.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\РАБ_ота\NaturalNumsLib\obj\Debug\NaturalNumsLib.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\РАБ_ота\NaturalNumsLib\obj\Debug\NaturalNumsLib.dll
+C:\Users\admin\Desktop\РАБ_ота\NaturalNumsLib\obj\Debug\NaturalNumsLib.pdb
